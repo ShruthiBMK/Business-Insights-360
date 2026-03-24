@@ -18,3 +18,4 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 * Published a report on Power BI service for user acceptance testing (UAT).
 * Incorporated stakeholder feedback to create an Executive Dashboard, resolved quality issues, optimized dashboard performance, and deployed the dashboard to Power BI service with gateway setup to MySQL Database and local Excel files for Automatic Data Refresh.
 * Designed a 3-level analytical dashboard enabling stakeholders to drill into top products, markets, and customers — tracking P&L trends, % changes, and supply chain forecast accuracy to improve inventory management and business performance.
+### [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWY1YzQyYTgtMDhkNy00NGYxLTlkYjYtYzMyODE4N2E1ZWZiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=5a6be796eac0aa9a19e4 )
