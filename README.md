@@ -43,6 +43,15 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 * Accuracy vs Net Error Trend analysis.
 * Key Metrics for both Customer and Products based on FA%, FA% LY, Net Error, Net Error%, Risk Factor.
 
+## Key Findings.
+
+* The most helpful measures for senior management are the Gross Margin and Net Profit (Gross Margin - Operational Costs).
+* Gross Margin and Net Sales are more significant to the sales team than Net Profit since, in most cases, they have little to no control over operating costs.
+* Understanding the changes in marketing spend over time and how those changes affect revenue and gross margin is crucial for the marketing team.
+* Forecast Accuracy & Risk (Out of Stock or Excess Inventory) and Net Error & Absolute Error are crucial KPIs for the supply chain team.
+* One of the most helpful abilities that aids in the creation of insightful visuals is the managing of stakeholder expectations.
+
+
 ## Key Features in Executive View:
 Report Page for the Top Level Management of the Company who want to check on all key metrics and KPI's.
 * Market Share Trend analysis for AtliQ and other competitors.
